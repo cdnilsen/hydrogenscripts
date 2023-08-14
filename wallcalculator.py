@@ -1,4 +1,4 @@
-# Calculator for wallthickness
+# Calculator for wall thickness
 # a constant!
 pi = 3.1416
 
