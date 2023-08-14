@@ -31,7 +31,7 @@ specific_heat_polynomial = [(0.0000001, 3), (-0.0005, 2), (0.9209, 1), (280, 0)]
 
 enthalpy_of_decomp = 50113 # Joules per *gram* at 298K.
 
-energy_efficiency = 0.5 # How efficient is your energy usage?
+energy_efficiency = 0.25 # How efficient is your energy usage?
 
 gaseous_mole_ratio = 4 # This is the ratio of output mole gases to input mole gases. For complete pyrolysis of propane (C₃H₈ → 3C + 4H₂), it has a value of 4.
 
